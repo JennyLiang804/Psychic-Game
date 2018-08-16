@@ -1,0 +1,14 @@
+body {
+    background: rgb(248, 213, 147);
+}
+
+#game {
+    max-width: 30%;
+    padding: 20px;
+    margin-top: 10%;
+    margin-left: 32%;
+    background: rgb(236, 230, 230);
+    height: 80%;
+    color:orange;
+    outline: 5px dotted orange;
+}
